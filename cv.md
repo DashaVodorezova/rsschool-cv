@@ -8,7 +8,9 @@
 
 ## Preferred position
 
-Manual tester, front end developer
+Manual tester
+
+Front end developer
 
 > full time
 
@@ -43,4 +45,4 @@ English - _intermediate_
 
 ## Additional info
 
-Photography enthusiast - [My page on Pexels](https://www.pexels.com/@daka)
+Photography enthusiast - [My page on Pexels](https://www.pexels.com/@daka) `:camera:`
