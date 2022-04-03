@@ -8,18 +8,20 @@
 
 ## Preferred position
 
-Manual tester, front end developer.
+Manual tester, front end developer
 
 > full time
 
 ## Previous experience
 
-Engineer at PAO ”Transneft”.
+Engineer at PAO ”Transneft”
 
 ## Education
 
 Magister’s degree - Technology engineer. Tyumen Industrial University,
-Faculty of Ecology, 2013. International acknowledgement by [WES] (https://drive.google.com/file/d/12rlIBpYdNUx3kFjpON0J-kDj5nEiKfQ1/view?usp=sharing).
+Faculty of Ecology, 2013.
+
+International acknowledgement by [WES](https://drive.google.com/file/d/12rlIBpYdNUx3kFjpON0J-kDj5nEiKfQ1/view?usp=sharing).
 
 ## Key skills
 
@@ -41,4 +43,4 @@ English - _intermediate_
 
 ## Additional info
 
-Photography enthusiast [My page on Pexels] (https://www.pexels.com/@daka)
+Photography enthusiast [My page on Pexels](https://www.pexels.com/@daka)
