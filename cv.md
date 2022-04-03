@@ -27,15 +27,15 @@ International acknowledgement by [WES](https://drive.google.com/file/d/12rlIBpYd
 
 ## Key skills
 
-Manual testing procedures and forms;
+- Manual testing procedures and forms
 
-JavaScript, HTML and CSS basics;
+- JavaScript, HTML and CSS basics
 
-Git, Jira, Postman basics;
+- Git, Jira, Postman basics
 
-SQL basics;
+- SQL basics
 
-Image processing (Figma, Adobe Lightroom, GIMP).
+- Image processing (Figma, Adobe Lightroom, GIMP).
 
 ## Language skills
 
@@ -43,6 +43,20 @@ Russian - _native_
 
 English - _intermediate_
 
+![Image](https://ci5.googleusercontent.com/proxy/U4rH2O2Bt73ws74gTIW4ioQTtcfSrS2vZ_3RItDR3EPj0WPBQQiXxcP5lCsEYCJyAvUEMU-URUeNsgXNmnq3D-sQE7Qf0Pq4HQOed5jo0yQc99DYE5X--deReQ=s0-d-e1-ft#https://cdn.efset.org/efset-media-assets/percentage-scores/badges/75.png)
+
 ## Additional info
 
 Photography enthusiast - [My page on Pexels](https://www.pexels.com/@daka) :camera:
+
+## Courses:
+
+- HTML, CSS, JS Tutorials on the W3schools (in process)
+- JavaScript/Front-end 2022Q1 RS School (in process)
+- JavaScript Manual on learnjavascript.ru (in progress)
+
+## Contact info
+
+_Phone:_ +90 (554) - 303 - 76 - 92
+_E-mail:_ dariavodorezova@gmail.com
+_Telegram:_ @da_shasha
