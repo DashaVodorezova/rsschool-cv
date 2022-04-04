@@ -1,0 +1,62 @@
+# DARIA VODOREZOVA
+
+14.04.1991
+
+**Citizenship** - _Russia_
+
+**Location** - _Turkey, Istanbul_
+
+## Preferred position
+
+Manual tester
+
+Front end developer
+
+> full time
+
+## Previous experience
+
+Engineer at PAO ”Transneft”
+
+## Education
+
+Magister’s degree - Technology engineer. Tyumen Industrial University,
+Faculty of Ecology, 2013.
+
+International acknowledgement by [WES](https://drive.google.com/file/d/12rlIBpYdNUx3kFjpON0J-kDj5nEiKfQ1/view?usp=sharing).
+
+## Key skills
+
+- Manual testing procedures and forms
+
+- JavaScript, HTML and CSS basics
+
+- Git, Jira, Postman basics
+
+- SQL basics
+
+- Image processing (Figma, Adobe Lightroom, GIMP)
+
+## Language skills
+
+Russian - _native_
+
+English - _intermediate_
+
+## Additional info
+
+Photography enthusiast - [My page on Pexels](https://www.pexels.com/@daka) :camera:
+
+## Courses:
+
+- HTML, CSS, JS Tutorials on the W3schools (in process)
+- JavaScript/Front-end 2022Q1 RS School (in process)
+- JavaScript Manual on learnjavascript.ru (in progress)
+
+## Contact info
+
+_Phone:_ +90 (554) - 303 - 76 - 92
+
+_E-mail:_ dariavodorezova@gmail.com
+
+_Telegram:_ @da_shasha
